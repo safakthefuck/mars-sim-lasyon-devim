@@ -5,8 +5,8 @@ Bu proje, C programlama dilinin temel yapıları kullanılarak geliştirilmiş m
 
 Proje; sağlık, enerji, oksijen, su, yedek parça, modül hasarı ve gün/tur sayacını takip eden kapsamlı bir durum yönetimi altyapısına sahiptir.
 
-- **Geliştirici:** Ediz Öztürk
-- **Öğrenci Numarası:** 1260505012
+- **Geliştirici:** Şafak Balcı
+- **Öğrenci Numarası:** 1260505006
 - **Ders:** Algoritma ve Programlama
 
 ---
